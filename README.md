@@ -1,5 +1,6 @@
 # globalplanner_py
 
+This code works but it is not good.
 
 Run the node:
 
